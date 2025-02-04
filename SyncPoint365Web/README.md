@@ -1,4 +1,4 @@
-Credentials:\n
-SuperAdmin\n
-Email: admin@mail.com\n
+Credentials: <br />
+SuperAdmin <br />
+Email: admin@mail.com <br />
 Password: Admin1234!
